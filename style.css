@@ -34,6 +34,15 @@ background: transparent !important;
 #footer{
   background:#2A9D8E !important;
 }
+
+/*subscribe button in footer teal*/
+.hp_subscribe .wrapper #formContainer fieldset input[type=submit] {
+    border-color: #2A9D8E !important;
+}
+.hp_subscribe .wrapper #formContainer fieldset input[type=submit]:hover {
+    background-color: #2A9D8E !important;
+}
+
 /*links in the lists in turk*/
 .hp_content_wrapper .widget_content>ul>li h6 a{
 	color:	#2A9D8E !important;
