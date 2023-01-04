@@ -67,7 +67,7 @@ font-family: 'Roboto Slab', sans-serif !important;
 *Change font of most headers*/
 
 .branding-search #header_branding .site_title, .hp-table .hp-row-first .promo_slider .slider .cycle-caption big, .chabad_updates .widget_header.widget_header h5, [class*=widget-] .widget_header.widget_header h5, .header-title {
-    color: #f18950;
+
 font-family: Quicksand, sans-serif; 
 font-weight: 600;
 }
