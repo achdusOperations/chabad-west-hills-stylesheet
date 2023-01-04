@@ -1,7 +1,7 @@
 
 <style>
 .header-title{
-	color:green;
+	color:green !important;
 }
 /*different branding for homepage not scroll (light)*/
 .home #header .site-logo-wrapper a > img {
