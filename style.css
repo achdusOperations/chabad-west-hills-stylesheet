@@ -4,7 +4,10 @@
 .the-first-thing {
 	doesnt: render;
 }
-
+/*circle around logo see through*/
+#header_branding .site-logo-wrapper {
+background: rgba(0,0,0,0.5) !important;
+}
 
 /*titles in teal*/
 .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5{
