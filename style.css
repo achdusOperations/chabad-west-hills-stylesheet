@@ -22,7 +22,7 @@ background: transparent !important;
 /*message on hover in turk and color white */
 .message .wrapper .widget_content .readMore:hover {
     background: #2A9D8E !important;
-	color:#FFF;
+	color:#FFF !important;
 }
 
 /*line above footer in yellow*/
