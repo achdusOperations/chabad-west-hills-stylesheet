@@ -16,9 +16,11 @@
     color: #2A9D8E !important;
     border: 2px solid #2A9D8E !important;
 }
-/*message on hover in turk */
+/*message on hover in turk and color white */
 .message .wrapper .widget_content .readMore:hover {
     background: #2A9D8E !important;
+	color:#FFF;
+}
 
 /*line above footer in yellow*/
 .hp-table .hp_subscribe{
