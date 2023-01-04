@@ -1,13 +1,13 @@
 
 <style>
-.header-title{
-	color:green !important;
-}
+
 /*different branding for homepage not scroll (light)*/
 .home #header .site-logo-wrapper a > img {
 content: url("https://w2.chabad.org/media/images/1184/hkQq11840680.png") !important;
 }
-
+.header-title{
+	color:green !important;
+}
 .home #header_branding > div > a > img {
 	content: url("https://w2.chabad.org/media/images/1184/hkQq11840680.png") !important;
 }
