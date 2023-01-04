@@ -5,9 +5,7 @@
 .home #header .site-logo-wrapper a > img {
 content: url("https://w2.chabad.org/media/images/1184/hkQq11840680.png") !important;
 }
-.header-title{
-	color:#2A9D8E !important;
-}
+
 .home #header_branding > div > a > img {
 	content: url("https://w2.chabad.org/media/images/1184/hkQq11840680.png") !important;
 }
@@ -15,6 +13,10 @@ content: url("https://w2.chabad.org/media/images/1184/hkQq11840680.png") !import
 /*taking off the circle behind branding*/
 #header_branding .site-logo-wrapper {
 background-color: transparent !important;
+}
+
+.header-title {
+	color: #2A9D8E !important;
 }
 
 /*making the logo bigger on big screens
