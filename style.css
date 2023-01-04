@@ -5,7 +5,7 @@
 	doesnt: render;
 }
 #header_branding .site-logo-wrapper {
-	border-radius:100% !important;
+	display:none !important;
 }
 [class*=widget-] .widget_header.widget_header h5 {
     color: #2A9D8E !important;
