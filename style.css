@@ -6,7 +6,7 @@
 }
 /*circle around logo see through*/
 #header_branding .site-logo-wrapper {
-background: rgba(0,0,0,0.5) !important;
+background: transparent !important;
 }
 
 /*titles in teal*/
