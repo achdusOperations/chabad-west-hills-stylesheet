@@ -16,12 +16,12 @@ background: transparent !important;
 /*message in turk */
 
 .message .wrapper .widget_content .readMore {   
-    color: #2A9D8E !important;
-    border: 2px solid #2A9D8E !important;
+    color: #264653 !important;
+    border: 2px solid #264653 !important;
 }
 /*message on hover in turk and color white */
 .message .wrapper .widget_content .readMore:hover {
-    background: #2A9D8E !important;
+    background: #264653 !important;
 	color:#FFF !important;
 }
 /*program section with gradient background */
@@ -36,7 +36,7 @@ background: linear-gradient(90deg, #E9C46B 0%, #F1A460 100%) !important;
 
 /*footer in turk*/
 #footer{
-  background:#2A9D8E !important;
+  background:#264653 !important;
 }
 
 /*subscribe button in footer teal*/
@@ -49,5 +49,5 @@ background: linear-gradient(90deg, #E9C46B 0%, #F1A460 100%) !important;
 
 /*links in the lists in turk*/
 .hp_content_wrapper .widget_content>ul>li h6 a{
-	color:	#2A9D8E !important;
+	color:	#264653 !important;
 }
