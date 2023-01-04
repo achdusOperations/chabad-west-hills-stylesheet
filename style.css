@@ -24,6 +24,10 @@ background: transparent !important;
     background: #2A9D8E !important;
 	color:#FFF !important;
 }
+/*program section with gradient background */
+.hp-table>:nth-of-type(2n) {
+background: linear-gradient(90deg, #E9C46B 0%, #F1A460 100%) !important;
+}
 
 /*line above footer in yellow*/
 .hp-table .hp_subscribe{
