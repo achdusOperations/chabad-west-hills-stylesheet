@@ -1,6 +1,8 @@
 
 <style>
-
+.header-title{
+	color:green;
+}
 /*different branding for homepage not scroll (light)*/
 .home #header .site-logo-wrapper a > img {
 content: url("https://w2.chabad.org/media/images/1184/hkQq11840680.png") !important;
@@ -78,6 +80,4 @@ text-transform: none !important;
 .message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a {
 border-radius: 25px !important;
 }
-.header-title{
-	color:green;
-}
+
