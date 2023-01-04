@@ -18,7 +18,7 @@
 }
 /*message on hover in turk */
 .message .wrapper .widget_content .readMore:hover {
-    background: #2A9D8E1;
+    background: #2A9D8E;
 
 /*line above footer in yellow*/
 .hp-table .hp_subscribe{
@@ -28,4 +28,8 @@
 /*footer in turk*/
 #footer{
   background:#2A9D8E !important;
+}
+/*links in the lists in turk*/
+.hp_content_wrapper .widget_content>ul>li h6 a{
+	color:	#2A9D8E;
 }
