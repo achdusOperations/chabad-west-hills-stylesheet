@@ -3,6 +3,9 @@
 .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5{
   color:#2A9D8E !important;
 }
+.hp-table .hp_subscribe{
+  background:#E9C46B !important;
+}
 #footer{
   background:#2A9D8E !important;
 }
