@@ -15,7 +15,7 @@ background: transparent !important;
 }
 
 /*titles in teal*/
-.header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5{
+.header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big{
   color:#2A9D8E !important;
 font-family: Quicksand, sans-serif !important;
 font-weight: 600 !important;
