@@ -28,6 +28,10 @@ background: transparent !important;
 .hp-table>:nth-child(2) {
 background: linear-gradient(90deg, #E9C46B 0%, #F1A460 100%) !important;
 }
+/*programs in teal when hover */
+.sneak-peek-container .sneak_peek .widget_content h6 a:hover{
+	background:#2A9D8E !important;
+}
 
 /*line above footer in yellow*/
 .hp-table .hp_subscribe{
