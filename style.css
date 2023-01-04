@@ -1,5 +1,9 @@
 
 <style>
+/*mini-site full width glitch*/
+.the-first-thing {
+	doesnt: render;
+}
 .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5{
   color:#2A9D8E !important;
 }
