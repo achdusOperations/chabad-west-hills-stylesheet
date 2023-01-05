@@ -10,6 +10,17 @@
 #header_branding .site-logo-wrapper {
 background: transparent !important;
 }
+/*making logo bigger*/
+.site-logo-wrapper a > img {
+width: 150px !important;
+height: 150px !important;
+margin-top: -10px !important;
+}
+
+/*taking off site title*/
+.site_title {
+display: none !important;
+}
 
 /*titles in teal*/
 .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big{
@@ -17,13 +28,24 @@ background: transparent !important;
 }
 /*message in turk */
 
-.message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore {   
+.message .wrapper .widget_content .readMore{   
     color: #264653 !important;
     border: 2px solid #264653 !important;
 }
 /*message on hover in turk and color white */
-.message .wrapper .widget_content .readMore:hover , .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore :hover{
+.message .wrapper .widget_content .readMore:hover {
     background: #264653 !important;
+	color:#FFF !important;
+}
+/*message in teal */
+
+ .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore  {   
+    color: #2A9D8E !important;
+    border: 2px solid #2A9D8E !important;
+}
+/*message on hover in turk and color white */
+, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover{
+    background: #2A9D8E !important;
 	color:#FFF !important;
 }
 /*program section with gradient background */
