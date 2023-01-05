@@ -49,8 +49,8 @@ display: none !important;
 	color:#FFF !important;
 }
 /*change color of icons in yellow */
-.icon .chabad_updates .widget_content .item .icon img, .icon .widget_content .item .icon img { {
-	filter:filter: brightness(0) saturate(100%) invert(79%) sepia(40%) saturate(496%) hue-rotate(357deg) brightness(96%) contrast(90%)!important;
+ .icon .widget_content .item .icon img { 
+	filter: brightness(0) saturate(100%) invert(79%) sepia(40%) saturate(496%) hue-rotate(357deg) brightness(96%) contrast(90%)!important;
 }
 /*program section with gradient background */
 .hp-table>:nth-child(2) {
