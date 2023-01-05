@@ -48,6 +48,9 @@ display: none !important;
     background: #2A9D8E !important;
 	color:#FFF !important;
 }
+.widget_content .item .icon img {
+	color:#E9C46B;
+}
 /*program section with gradient background */
 .hp-table>:nth-child(2) {
 background: linear-gradient(90deg, rgba(233,196,107,1) 0% , rgba(241,164,96,1 )100%) !important;
