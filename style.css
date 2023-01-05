@@ -23,17 +23,17 @@ display: none !important;
 }
 
 /*titles in teal*/
-.header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big{
+.header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big{
   color:#2A9D8E !important;
 }
 /*message in turk */
 
-.message .wrapper .widget_content .readMore, .latest_photos .readMore span{   
+.message .wrapper .widget_content .readMore, .latest_photos .readMore span, .hp_content_wrapper .readMore {   
     color: #264653 !important;
     border: 2px solid #264653 !important;
 }
 /*message on hover in turk and color white */
-.message .wrapper .widget_content .readMore:hover ,.latest_photos .readMore span:hover {
+.message .wrapper .widget_content .readMore:hover ,.latest_photos .readMore span:hover, .hp_content_wrapper .readMore:hover {
     background: #264653 !important;
 	color:#FFF !important;
 }
