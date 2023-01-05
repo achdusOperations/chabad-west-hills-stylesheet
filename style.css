@@ -22,8 +22,8 @@ margin-top: -10px !important;
 display: none !important;
 }
 
-/*titles in teal*/
-.header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child{
+/*different elements in teal*/
+.header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
   color:#2A9D8E !important;
 }
 /*message in turk */
@@ -79,8 +79,8 @@ background: linear-gradient(90deg, rgba(233,196,107,1) 0% , rgba(241,164,96,1 )1
     background-color: #2A9D8E !important;
 }
 
-/*links in the lists in turk*/
-.hp_content_wrapper .widget_content>ul>li h6 a{
+/*different elements in the lists in turk*/
+.hp_content_wrapper .widget_content>ul>li h6 a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large {
 	color:	#264653 !important;
 }
 /*making some elements a different font*/
