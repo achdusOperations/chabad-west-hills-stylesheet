@@ -28,23 +28,23 @@ display: none !important;
 }
 /*message in turk */
 
-.message .wrapper .widget_content .readMore{   
+.message .wrapper .widget_content .readMore, .latest_photos .readMore span{   
     color: #264653 !important;
     border: 2px solid #264653 !important;
 }
 /*message on hover in turk and color white */
-.message .wrapper .widget_content .readMore:hover {
+.message .wrapper .widget_content .readMore:hover ,.latest_photos .readMore span:hover {
     background: #264653 !important;
 	color:#FFF !important;
 }
 /*message in teal */
 
- .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore  {   
+ .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore ,.hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore  {   
     color: #2A9D8E !important;
     border: 2px solid #2A9D8E !important;
 }
 /*message on hover in turk and color white */
-, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover{
+, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover{
     background: #2A9D8E !important;
 	color:#FFF !important;
 }
