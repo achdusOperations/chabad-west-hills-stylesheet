@@ -80,7 +80,7 @@ background: linear-gradient(90deg, rgba(233,196,107,1) 0% , rgba(241,164,96,1 )1
 }
 
 /*different elements in the lists in turk*/
-.hp_content_wrapper .widget_content>ul>li h6 a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large {
+.hp_content_wrapper .widget_content>ul>li h6 a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large, body.cco_body #tabContentMain .co_menu_item.selected span.parent a  {
 	color:	#264653 !important;
 }
 /*making some elements a different font*/
