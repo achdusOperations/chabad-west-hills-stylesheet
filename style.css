@@ -49,7 +49,8 @@ display: none !important;
 	color:#FFF !important;
 }
 .widget_content .item .icon img {
-	color:#E9C46B;
+	filter:none !important;
+	color:#E9C46B !important;
 }
 /*program section with gradient background */
 .hp-table>:nth-child(2) {
