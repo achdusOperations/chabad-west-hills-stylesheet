@@ -33,7 +33,7 @@ font-weight: 600 !important;
 }
 /*program section with gradient background */
 .hp-table>:nth-child(2) {
-background: linear-gradient(90deg, #E9C46B , #F1A460 ) !important;
+background: linear-gradient(90deg, rgba(233,196,107,1) 0% , rgba(241,164,96,1 )100% !important;
 }
 /*programs in teal when hover */
 .sneak-peek-container .sneak_peek .widget_content h6 a:hover{
