@@ -56,7 +56,9 @@ display: none !important;
 }
 /*message on hover in teal and color white */
 .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover , .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover{
-    background: #2A9D8E !important;
+    background: #2A9D8E !important;	
+}
+.header-title{
 	color:#FFF !important;
 }
 
