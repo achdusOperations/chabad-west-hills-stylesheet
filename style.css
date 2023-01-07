@@ -37,14 +37,10 @@ display: none !important;
 #tabContentMain .co_menu_item.multi_level:before {
     border-bottom: 8px solid #2A9D8E !important;
 }
-body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container {   
+body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , .dir_ltr .co_menu_item.multi_level .co_submenu_container .menu_child.selected{   
     border-top-color: #2A9D8E !important;
 }
-body.cco_body #tabContentMain .co_menu_item.selected a.parent:after {
-    
-    background: #2A9D8E !important;
-}
-	
+
 	
 /*message in turk */
 .message .wrapper .widget_content .readMore, .latest_photos .readMore span, .hp_content_wrapper .readMore {   
