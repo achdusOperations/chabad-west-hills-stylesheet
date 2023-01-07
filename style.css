@@ -6,10 +6,12 @@
 .the-first-thing {
 	doesnt: render;
 }
+
 /*circle around logo see through*/
 #header_branding .site-logo-wrapper {
 background: transparent !important;
 }
+
 /*making logo bigger*/
 .site-logo-wrapper a > img {
 width: 80px !important;
@@ -21,22 +23,22 @@ margin-top: -20px !important;
 .site_title {
 display: none !important;
 }
+
 /*inter lines at top in yellow*/
 #header_container .links .topBarLink:before, #header_container .links .float_right+.float_left .topBarLink:last-child:after  {
 	color:#E9C46B !important;
 }
 
 /*different elements in teal*/
-.co_menu_item.multi_level .co_submenu_container a.item.hover span, .co_menu_item.multi_level .co_submenu_container a.item:hover span {, .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
+.co_menu_item.multi_level .co_submenu_container a.item.hover span, .co_menu_item.multi_level .co_submenu_container a.item:hover span , .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
   color:#2A9D8E !important;
 }
-
 #tabContentMain .co_menu_item.multi_level:before {
     border-bottom: 8px solid #2A9D8E; !important
-	}
+}
+	
 	
 /*message in turk */
-
 .message .wrapper .widget_content .readMore, .latest_photos .readMore span, .hp_content_wrapper .readMore {   
     color: #264653 !important;
     border: 2px solid #264653 !important;
@@ -46,21 +48,23 @@ display: none !important;
     background: #264653 !important;
 	color:#FFF !important;
 }
-/*message in teal */
 
+/*message in teal */
  .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore ,.hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore,body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a{   
     color: #2A9D8E !important;
     border: 2px solid #2A9D8E !important;
 }
-/*message on hover in turk and color white */
+/*message on hover in teal and color white */
 .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover , .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover{
     background: #2A9D8E !important;
 	color:#FFF !important;
 }
+
 /*change color of icons in yellow */
  .icon .widget_content .item .icon img { 
 	filter: brightness(0) saturate(100%) invert(79%) sepia(40%) saturate(496%) hue-rotate(357deg) brightness(96%) contrast(90%)!important;
 }
+
 /*program section with gradient background */
 /*.hp-table>:nth-child(2) {*/
 /*background: linear-gradient(90deg, rgba(233,196,107,1) 0% , rgba(241,164,96,1 )100%) !important;*/
@@ -70,7 +74,7 @@ display: none !important;
 .hp-table>:nth-child(2) {
 	background:#2A9D8E;!important
 	color:#FFF; !important
-	}
+}
 	
 /*programs in teal when hover */
 .sneak-peek-container .sneak_peek .widget_content h6 a:hover{
