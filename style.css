@@ -41,14 +41,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container {
     border-top-color: #2A9D8E !important;
 }
 body.cco_body #tabContentMain .co_menu_item.selected a.parent:after {
-    content: "" !important;
-    display: block !important;
-    position: absolute !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    bottom: -4px !important;
-    width: 100% !important;
-    height: 2px !important;
+    
     background: #2A9D8E !important;
 }
 	
