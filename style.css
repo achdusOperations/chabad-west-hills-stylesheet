@@ -23,13 +23,17 @@ display: none !important;
 }
 /*inter lines at top in yellow*/
 #header_container .links .topBarLink:before, #header_container .links .float_right+.float_left .topBarLink:last-child:after  {
-	color:#E9C46B;
+	color:#E9C46B !important;
 }
 
 /*different elements in teal*/
 .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
   color:#2A9D8E !important;
 }
+
+#tabContentMain .co_menu_item.multi_level:before {
+    border-bottom: 8px solid #2A9D8E; !important
+	
 /*message in turk */
 
 .message .wrapper .widget_content .readMore, .latest_photos .readMore span, .hp_content_wrapper .readMore {   
