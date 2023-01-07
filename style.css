@@ -33,8 +33,12 @@ display: none !important;
 .co_menu_item.multi_level .co_submenu_container a.item.hover span, .co_menu_item.multi_level .co_submenu_container a.item:hover span , .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
   color:#2A9D8E !important;
 }
+/*triangle and top border navigation bar in teal*/
 #tabContentMain .co_menu_item.multi_level:before {
     border-bottom: 8px solid #2A9D8E; !important
+}
+body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container {   
+    border-top-color: #2A9D8E;!important
 }
 	
 	
