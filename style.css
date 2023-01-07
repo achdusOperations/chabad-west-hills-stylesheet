@@ -117,7 +117,7 @@ body.cco_body #tabContentMain .co_menu_item.selected a.parent:after {
 }
 
 /*different elements in the lists and nav in turk*/
-[class^=widget-].candlelighting a, body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a, .hp_content_wrapper .widget_content>ul>li h6 a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large, body.cco_body #tabContentMain .co_menu_item.selected span.parent a  {
+ [class^=widget-].candlelighting a, body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a, .hp_content_wrapper .widget_content>ul>li h6 a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large, body.cco_body #tabContentMain .co_menu_item.selected span.parent a  {
 	color:	#264653 !important;
 }
 /*making some elements a different font*/
