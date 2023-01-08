@@ -55,6 +55,9 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
     background: #264653 !important;
 	color:#FFF !important;
 }
+.co_body .content .form-all .form-submit-button{
+	background-color:white;
+}
 
 /*message in teal */
  .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore ,.hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore,body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .co_body .content .form-all .form-submit-button{   
