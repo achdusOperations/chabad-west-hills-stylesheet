@@ -122,6 +122,7 @@ background-color: transparent !important;
 }
 */titles capitalised*/
 .icon-updates .widget_header h5, .hp_subscribe .wrapper .widget_header h5  {
+	font-family: 'Maven Pro', sans-serif !important;
 text-transform: capitalize !important;	
 }
 
@@ -136,7 +137,7 @@ font-family: 'Roboto Slab', sans-serif !important;
 font-family: 'Roboto Slab', sans-serif !important;
 	}
 
-.co_body .content .form-all, .co_body .content p, .co_body h1, .co_body h1 a, .co_body h2, .co_body h2 a, .co_body h3, .co_body h3 a, .co_body h4, .co_body h4 a,  .co_body h5 a, .co_body h6, .co_body h6 a, .cps-container h1, .cps-container h2, .cps-container p, .form-all, a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h6, header, hgroup, html, html body.cco_body, html body.cco_body p, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, pre, q, ruby, s, samp, section, small, strike, strong, sub, summary, sup, table, tfoot, time, tt, u, ul, var, video {
+.co_body .content .form-all, .co_body .content p, .co_body h1, .co_body h1 a, .co_body h2, .co_body h2 a, .co_body h3, .co_body h3 a, .co_body h4, .co_body h4 a,  .co_body h5 a, .co_body h6, .co_body h6 a, .cps-container h1, .cps-container h2, .cps-container p, .form-all, a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h6, header, hgroup, html, html body.cco_body, html body.cco_body p, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, pre, q, ruby, s, samp, section, small, strike, strong, sub, summary, sup, table, tfoot, time, tt, u, ul, var, video, .latest_photos .widget_header h5 {
 font-family: 'Maven Pro', sans-serif !important;
 text-transform: none !important;
 }
