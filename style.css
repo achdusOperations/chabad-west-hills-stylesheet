@@ -136,7 +136,7 @@ font-family: 'Maven Pro', sans-serif !important;
 text-transform: none !important;
 }
 */titles capitalised*/
-.hp_subscribe .wrapper .widget_header h5, .widget-4 .widget_header h5{
+.chabad_updates .widget_header.widget_header h5, [class*=widget-] .widget_header.widget_header h5{
 text-transform: capitalize !important;	
 }
 
