@@ -140,3 +140,9 @@ text-transform: none !important;
 text-transform: capitalize!important;
 	
 }
+*/donate buttons in teal*/
+#donate-wrapper main .amounts button:hover {
+    box-shadow: 0 0 40px 40px #2A9D8E inset important!;
+}
+#donate-wrapper main .amounts button{
+	background-color:#2A9D8E important!;
