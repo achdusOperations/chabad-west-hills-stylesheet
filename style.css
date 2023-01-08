@@ -94,7 +94,7 @@ background-color: transparent !important;
 }
 	
 /*different backgrounds in teal */
-.sneak-peek-container .sneak_peek .widget_content h6 a:hover, .hp-table>:nth-of-type(2n) {
+.sneak-peek-container .sneak_peek .widget_content h6 a:hover, .hp-table>:nth-of-type(2n) , .article_index_container .co_index.article_index .row .item .title a:hover {
 	background:#2A9D8E !important;
 }
 
@@ -103,8 +103,8 @@ background-color: transparent !important;
   background:#E9C46B !important;
 }
 
-/*footer in turk*/
-#footer{
+/*footer and line in nav in turk*/
+#footer, body.cco_body #tabContentMain .co_menu_item.selected a.parent:after {{
   background:#264653 !important;
 }
 
