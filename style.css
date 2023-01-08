@@ -30,7 +30,7 @@ display: none !important;
 }
 
 /*different elements in teal*/
-#BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) .article-header .breadcrumbs .breadcrumbs__crumb, #BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) .article-header .breadcrumbs .breadcrumbs__divider, .co_menu_item.multi_level .co_submenu_container a.item.hover span, .co_menu_item.multi_level .co_submenu_container a.item:hover span , .header-title , .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
+.header-title, #BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) .article-header .breadcrumbs .breadcrumbs__crumb, #BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) .article-header .breadcrumbs .breadcrumbs__divider, .co_menu_item.multi_level .co_submenu_container a.item.hover span, .co_menu_item.multi_level .co_submenu_container a.item:hover span , .header-title , .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
   color:#2A9D8E !important;
 }
 /*triangle and top border navigation bar in teal*/
@@ -64,7 +64,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
     background-color: rgba(42,157,142,0.6) !important;	
 }
 /* different writings in color white */
-.header-title, .widget_header h5{
+ .widget_header h5{
 	color:#FFF !important;
 }
 
