@@ -60,7 +60,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 }
 /*message on hover in teal and color white */
 .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover , .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover{
-    background: #2A9D8E !important;	
+    background: rgba (42,157,142,0.6) !important;	
 }
 /* different writings in color white */
 .header-title{
