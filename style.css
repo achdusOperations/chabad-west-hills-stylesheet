@@ -81,6 +81,11 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 	background:#2A9D8E !important;
 	color:#FFF !important;
 }
+
+/*  Take off overlay off hero section*/
+.hp-table .hp-row-first .promo_slider .slider .slides .slide_wrapper a, .hp-table .hp-row-first .promo_slider .slider .slides .slide_wrapper img {
+background-color: transparent !important;
+}
 	
 /*programs in teal when hover */
 .sneak-peek-container .sneak_peek .widget_content h6 a:hover{
