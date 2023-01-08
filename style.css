@@ -28,7 +28,7 @@ display: none !important;
 #header_container .links .topBarLink:before, #header_container .links .float_right+.float_left .topBarLink:last-child:after  {
 	color:#E9C46B !important;
 }
-.widget-4 .widget_header h5{
+[class*=widget-] .widget_header.widget_header h5{
 	color:#FFF;
 }
 
