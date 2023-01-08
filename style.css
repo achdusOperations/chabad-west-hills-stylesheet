@@ -84,7 +84,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 	color:#2A9D8E !important;
 }
 /*about section with teal background and white color*/
-.hp-table>:nth-of-type(1) {
+.hp-table>:nth-child(1) {
 	background:#2A9D8E!important;
 	color:  #FFF !important;
 }
