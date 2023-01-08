@@ -79,8 +79,13 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 	
 /*program section with teal background and white color*/	
 .hp-table>:nth-child(2) {
-	background:#2A9D8E !important;
-	color:#FFF !important;
+	background: #FFF!important;
+	color:#2A9D8E !important;
+}
+/*about section with teal background and white color*/
+.message{
+	background:#2A9D8E!important;
+	color:  #FFF!important;
 }
 
 /*  Take off overlay off hero section*/
