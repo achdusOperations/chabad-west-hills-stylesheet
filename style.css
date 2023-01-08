@@ -29,7 +29,7 @@ display: none !important;
 	color:#E9C46B !important;
 }
 .message .widget_header.widget_header h5{
-	color:#FFF;
+	color:#FFF!important;
 }
 
 /*different elements in teal*/
