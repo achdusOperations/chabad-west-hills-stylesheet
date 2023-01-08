@@ -28,7 +28,7 @@ display: none !important;
 #header_container .links .topBarLink:before, #header_container .links .float_right+.float_left .topBarLink:last-child:after  {
 	color:#E9C46B !important;
 }
-.message .widget_header.widget_header h5{
+.message .widget_header.widget_header h5, .message .wrapper .widget_content.message_format div {
 	color:#FFF!important;
 }
 
@@ -148,4 +148,5 @@ text-transform: none !important;
 }
 #donate-wrapper main .amounts button{
 	background-color:#2A9D8E important!;
-	}
+}
+	
