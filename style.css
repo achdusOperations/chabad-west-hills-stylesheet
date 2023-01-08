@@ -30,7 +30,7 @@ display: none !important;
 }
 
 /*different elements in teal*/
-.co_menu_item.multi_level .co_submenu_container a.item.hover span, .co_menu_item.multi_level .co_submenu_container a.item:hover span , .header-title, [class*=widget-] .widget_header.widget_header h5 ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
+.co_menu_item.multi_level .co_submenu_container a.item.hover span, .co_menu_item.multi_level .co_submenu_container a.item:hover span , .header-title ,.widget_header h5, .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
   color:#2A9D8E !important;
 }
 /*triangle and top border navigation bar in teal*/
@@ -58,11 +58,12 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
     color: #2A9D8E !important;
     border: 2px solid #2A9D8E !important;
 }
-/*message on hover in teal and color white */
+/*message on hover in teal */
 .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover , .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover{
     background: #2A9D8E !important;	
 }
-.header-title{
+/* different writings in color white */
+.header-title, [class*=widget-] .widget_header.widget_header h5{
 	color:#FFF !important;
 }
 
