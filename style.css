@@ -121,7 +121,7 @@ background-color: transparent !important;
 	color:	#264653 !important;
 }
 */titles capitalised*/
-.icon-updates .widget_header h5 .subscribe h5{
+.icon-updates .widget_header h5, .hp_subscribe .wrapper .widget_header h5  {
 text-transform: capitalize !important;	
 }
 
