@@ -54,13 +54,13 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 }
 
 /*message in teal */
- .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore ,.hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore,body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a{   
+ .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore ,.hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore,body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .co_body .content .form-all .form-submit-button{   
     color: #2A9D8E !important;
     border: 2px solid #2A9D8E !important;
 }
 /*message on hover in teal and color white */
 
-.sneak-peek-container .sneak_peek .widget_content h6 a:hover,  .article_index_container .co_index.article_index .row .item .title a:hover , .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover , .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover{
+.sneak-peek-container .sneak_peek .widget_content h6 a:hover,  .article_index_container .co_index.article_index .row .item .title a:hover , .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover , .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover, .co_body .content .form-all .form-submit-button:hover{
     background-color: rgba(42,157,142,0.6) !important;	
 }
 
