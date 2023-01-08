@@ -63,7 +63,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
     background: #2A9D8E !important;	
 }
 /* different writings in color white */
-.header-title {
+.header-title, [class*=widget-] .widget_header.widget_header h5 {
 	color:#FFF !important;
 }
 
@@ -130,8 +130,8 @@ font-family: 'Roboto Slab', sans-serif !important;
 font-family: 'Maven Pro', sans-serif !important;
 text-transform: none !important;
 }
-*/title in white and xapitalise*/
-[class*=widget-] .widget_header.widget_header h5{
+*/titles capitalised*/
+[class*=widget-] .widget_header.widget_header h5, [class*=widget-] .widget_header.widget_header h5, .widget_header h5{
 text-transform: capitalize!important;
-	color:#FFF !important;
+	
 }
