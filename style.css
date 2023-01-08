@@ -121,7 +121,7 @@ background-color: transparent !important;
 	color:	#264653 !important;
 }
 */titles capitalised*/
-.icon-updates .widget_header h5, .hp_subscribe .wrapper .widget_header h5  {
+[class*=widget-].icon-updates .widget_header h5,[class*=widget-] .hp_subscribe .wrapper .widget_header h5  {
 	font-family: 'Maven Pro', sans-serif !important;
 text-transform: capitalize !important;	
 }
