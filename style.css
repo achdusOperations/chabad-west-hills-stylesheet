@@ -28,6 +28,9 @@ display: none !important;
 #header_container .links .topBarLink:before, #header_container .links .float_right+.float_left .topBarLink:last-child:after  {
 	color:#E9C46B !important;
 }
+.widget-4 .widget_header h5{
+	color:#FFF;
+}
 
 /*different elements in teal*/
  .widget_header h5, .header-title, #BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) .article-header .breadcrumbs .breadcrumbs__crumb, #BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) .article-header .breadcrumbs .breadcrumbs__divider, .co_menu_item.multi_level .co_submenu_container a.item.hover span, .co_menu_item.multi_level .co_submenu_container a.item:hover span , .header-title , .hp-table .hp-row-first .promo_slider .slider .cycle-caption p span big ,.hp-table>:not(:first-child) .promo_slider .cycle-caption p big, #footer .footer_text .footer3 span:first-child, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
