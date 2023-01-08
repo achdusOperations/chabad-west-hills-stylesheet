@@ -63,7 +63,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
     background: #2A9D8E !important;	
 }
 /* different writings in color white */
-.header-title, [class*=widget-] .widget_header.widget_header h5 {
+.header-title{
 	color:#FFF !important;
 }
 
@@ -85,7 +85,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 /*about section with teal background and white color*/
 .message{
 	background:#2A9D8E!important;
-	color:  #FFF!important;
+	color:  #FFF !important;
 }
 
 /*  Take off overlay off hero section*/
