@@ -125,9 +125,9 @@ background-color: transparent !important;
 	color:	#264653 !important;
 }
 */titles capitalised*/
-.hp_subscribe .wrapper .widget_header h5 {
+#BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div.hp-row.hp_subscribe > div > div > div.widget_header > h5 {
+text-transform: capitalize !important;
 	font-family: 'Maven Pro', sans-serif !important;
-	text-transform: capitalize !important;	
 }
 /*making some elements a different font*/
 .widget-4 .bottom_padding, .cycle-caption :not(big, a) {
