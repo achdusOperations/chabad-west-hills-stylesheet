@@ -19,7 +19,7 @@
 }
 }
 @media (max-width: 1024px){
-.cs-menu-item-toggle , .mobile-menu-bottom-links, .cs-mobile-menu-close {
+.cs-menu-item-toggle , .mobile-menu-bottom-links, .cs-mobile-menu-close , .on-scroll .cs-mobile-menu-open {
 	color:#264653 !important;
 }
 }
