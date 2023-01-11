@@ -7,7 +7,7 @@
 	doesnt: render;
 }
 @media (max-width: 1024px){
-#header > div > div.site-nav-wrapper {
+#header > div > div.site-nav-wrapper, .not-homepage body .cs-mobile-menu-open, body:not(.home) .cs-mobile-menu-open {
     background: FFF!important;
 	color:#264653 !important;
 }
