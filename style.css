@@ -69,15 +69,25 @@ display: none !important;
 body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , .dir_ltr .co_menu_item.multi_level .co_submenu_container .menu_child.selected{   
     border-top-color: #2A9D8E !important;
 }
+/*message in yellow */
+.message .wrapper .widget_content .readMore{   
+    color: #E9C46B  !important;
+    border: 2px solid #E9C46B  !important;
+}
+/*message on hover in yellow and color white */
+.message .wrapper .widget_content .readMore:hover {
+    background: #E9C46B !important;
+	color:#FFF !important;
+}
 
 	
 /*message in turk */
-.message .wrapper .widget_content .readMore, .latest_photos .readMore span, .hp_content_wrapper .readMore {   
+ .latest_photos .readMore span, .hp_content_wrapper .readMore {   
     color: #264653 !important;
     border: 2px solid #264653 !important;
 }
 /*message on hover in turk and color white */
-.message .wrapper .widget_content .readMore:hover ,.latest_photos .readMore span:hover, .hp_content_wrapper .readMore:hover {
+.latest_photos .readMore span:hover, .hp_content_wrapper .readMore:hover {
     background: #264653 !important;
 	color:#FFF !important;
 }
