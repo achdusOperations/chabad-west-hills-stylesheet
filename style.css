@@ -70,7 +70,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 }
 
 /*message in teal */
- .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore ,.hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore,body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .co_body .content .form-all .form-submit-button{   
+ .co_global_button .button, .co_global_submit .button, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore ,.hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore,body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .co_body .content .form-all .form-submit-button{   
     color: #2A9D8E !important;
     border: 2px solid #2A9D8E !important;
 }
