@@ -176,7 +176,7 @@ text-transform: none !important;
 #donate-wrapper main .amounts button:hover {
     box-shadow: 0 0 40px 40px #2A9D8E inset important!;
 }
-.co_global_button .button, .co_global_submit .button, #donate-wrapper main .amounts button{
+.co_global_button .button, .co_global_submit .button, #donate-wrapper main .amounts button, #MainSearchForm > div.co_global_submit{
 	background-color:#2A9D8E important!;
 	
 }
