@@ -7,7 +7,7 @@
 	doesnt: render;
 }
 @media (max-width: 1024px){
-.site-nav-wrapper {
+#header > div > div.site-nav-wrapper {
     background: FFF!important;
 	color:#264653 !important;
 }
