@@ -15,7 +15,12 @@
 }
 @media (max-width: 1024px){
 .no_outline {
-    -webkit-tap-highlight-color:#264653;
+    -webkit-tap-highlight-color:#264653 !important;
+}
+}
+@media (max-width: 1024px){
+.cs-menu-item-toggle {
+	color:#264653 !important;
 }
 }
 
