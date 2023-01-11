@@ -19,7 +19,7 @@
 }
 }
 @media (max-width: 1024px){
-.cs-menu-item-toggle {
+.cs-menu-item-toggle , .mobile-menu-bottom-links {
 	color:#264653 !important;
 }
 }
