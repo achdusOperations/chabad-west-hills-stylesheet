@@ -114,10 +114,10 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 	color:#2A9D8E !important;
 }
 /*about section with teal background and white color*/
-/*.hp-table>:nth-child(3) {*/
-/*	background:#2A9D8E!important;*/
-/*	color:  #FFF !important;*/
-/*}*/
+.hp-table>:nth-child(3) {
+	background:#2A9D8E!important;
+	color:  #FFF !important;
+}
 
 /*  Take off overlay off hero section*/
 .hp-table .hp-row-first .promo_slider .slider .slides .slide_wrapper a, .hp-table .hp-row-first .promo_slider .slider .slides .slide_wrapper img {
