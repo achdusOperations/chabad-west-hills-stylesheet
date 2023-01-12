@@ -10,7 +10,7 @@
     background: linear-gradient(90deg, rgba(255,204,70,1) 0%, rgba(249,165,113,1) 100%) !important;
    
 }
-.hp-table>:nth-child(2) *,.hp-table>:nth-child(6) * ,.hp-table .hp_subscribe *{ 
+.hp-table>:nth-child(2) *,.hp-table>:nth-child(6) * ,.hp-table .hp_subscribe *, .hp-table>:not(:first-child) .promo_slider .cycle-caption p big{ 
     color:white !important;
 }
 
