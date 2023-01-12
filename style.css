@@ -62,7 +62,7 @@ display: none !important;
 	color:#E9C46B !important;
 }
 .message .widget_header.widget_header h5, .message .wrapper .widget_content.message_format div {
-	color:#2A9D8E!important;
+	color:#FFF!important;
 }
 
 /*different elements in teal*/
@@ -76,11 +76,7 @@ display: none !important;
 body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , .dir_ltr .co_menu_item.multi_level .co_submenu_container .menu_child.selected{   
     border-top-color: #2A9D8E !important;
 }
-/*message in yellow */
-.message .wrapper .widget_content .readMore{   
-    color: #E9C46B  !important;
-    border: 2px solid #E9C46B  !important;
-}
+
 /*message on hover in yellow and color white */
 .message .wrapper .widget_content .readMore:hover {
     background: #E9C46B !important;
@@ -139,11 +135,11 @@ background-color: transparent !important;
   background:#264653 !important;
 }
 
-/*subscribe button in footer teal*/
-.hp_subscribe .wrapper #formContainer fieldset input[type=submit] {
+/*subscribe button in footer an about teal*/
+.hp_subscribe .wrapper #formContainer fieldset input[type=submit], .message .wrapper .widget_content .readMore {
     border-color: #2A9D8E !important;
 }
-.hp_subscribe .wrapper #formContainer fieldset input[type=submit]:hover {
+.hp_subscribe .wrapper #formContainer fieldset input[type=submit]:hover, .message .wrapper .widget_content .readMore:hover {
     background-color: #2A9D8E !important;
 }
 
