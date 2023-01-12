@@ -162,6 +162,12 @@ background-color: transparent !important;
 font-family: 'Maven Pro', sans-serif !important;
 
 }
+.hp-table>:not(:first-child) .promo_slider .cycle-directionNav a:hover:before{
+    color:#FFF !important;
+}
+.hp-table>:not(:first-child) .promo_slider .cycle-directionNav a:before{
+    color:#FFF !important;
+}
 
 
 */donate buttons in teal*/
