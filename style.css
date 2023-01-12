@@ -152,7 +152,7 @@ background-color: transparent !important;
 	color:	#264653 !important;
 }
 /*making some elements a different font*/
-.widget-4 .bottom_padding, .cycle-caption :not(big, a) {
+.branding-search #header_branding .site_title, .hp-table .hp-row-first .promo_slider .slider .cycle-caption big, .chabad_updates .widget_header.widget_header h5, [class*=widget-] .widget_header.widget_header h5, .header-title , .widget-4 .bottom_padding, .cycle-caption :not(big, a) , #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div.hp-row.hp_subscribe > div > div > div.widget_header > h5{
     font-family: 'Roboto Slab', sans-serif !important;
     }
 
