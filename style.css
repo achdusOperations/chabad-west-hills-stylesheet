@@ -6,6 +6,9 @@
 .the-first-thing {
 	doesnt: render;
 }
+.hp-table>:nth-child(2), .hp-table>:nth-of-type(2n),.hp-table .hp_subscribe { 
+    background: linear-gradient(90deg, rgba(255,204,70,1) 0%, rgba(249,165,113,1) 100%) !important;
+}
 
 @media (max-width: 1024px){
 #header > div > div.site-nav-wrapper, .not-homepage body .cs-mobile-menu-open, body:not(.home) .cs-mobile-menu-open {
