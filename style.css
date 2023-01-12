@@ -11,7 +11,7 @@
    
 }
 .hp-table>:nth-child(2) *,.hp-table>:nth-child(6) * ,.hp-table .hp_subscribe *{ 
-    color:white;
+    color:white !important;
 }
 
 @media (max-width: 1024px){
