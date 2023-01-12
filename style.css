@@ -6,7 +6,7 @@
 .the-first-thing {
 	doesnt: render;
 }
-.hp-table>:nth-child(2),.hp-table>:nth-child(4) ,.hp-table .hp_subscribe { 
+.hp-table>:nth-child(2),.hp-table>:nth-child(6) ,.hp-table .hp_subscribe { 
     background: linear-gradient(90deg, rgba(255,204,70,1) 0%, rgba(249,165,113,1) 100%) !important;
     color:white;
 }
