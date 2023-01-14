@@ -109,16 +109,16 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 
 
 /*change color of icons in yellow */
- .icon .widget_content .item .icon img>:nth-child(1){ 
+#BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4) > div > div > div.widget_content.index_format > div.item.first.clearfix > div.icon > img{ 
 	filter: invert(98%) sepia(57%) saturate(3594%) hue-rotate(310deg) brightness(103%) contrast(106%) !important;
 }
-.icon .widget_content .item .icon img>:nth-child(2){ 
+#BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4) > div > div > div.widget_content.index_format > div:nth-child(3) > div.icon > a > img{ 
 	filter:invert(79%) sepia(98%) saturate(882%) hue-rotate(315deg) brightness(99%) contrast(105%)!important;
 }
-.icon .widget_content .item .icon img>:nth-child(3){ 
+#BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4) > div > div > div.widget_content.index_format > div:nth-child(5) > div.icon > a > img{ 
 	filter:invert(77%) sepia(20%) saturate(1413%) hue-rotate(331deg) brightness(104%) contrast(97%)!important;
 }
-.icon .widget_content .item .icon img>:nth-child(4){ 
+#BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4) > div > div > div.widget_content.index_format > div.item.last.clearfix > div.icon > a > img{ 
 	filter:invert(74%) sepia(31%) saturate(1080%) hue-rotate(319deg) brightness(107%) contrast(95%)!important;
 }
 
