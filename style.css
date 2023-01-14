@@ -109,7 +109,7 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 
 
 /*change color of icons in yellow */
- .icon .widget_content .item .icon img { 
+ .icon .widget_content .item .icon img :nth-child(1){ 
 	filter:brightness(0) saturate(100%) invert(79%) sepia(40%) saturate(496%) hue-rotate(357deg) brightness(96%) contrast(90%)!important;
 }
 
