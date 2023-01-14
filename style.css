@@ -109,16 +109,16 @@ body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container , 
 
 
 /*change color of icons in yellow */
- .icon .widget_content .item .icon img :nth-child(1){ 
+ .icon .widget_content .item .icon img>:nth-child(1){ 
 	filter: invert(98%) sepia(57%) saturate(3594%) hue-rotate(310deg) brightness(103%) contrast(106%) !important;
 }
-.icon .widget_content .item .icon img :nth-child(2){ 
-	filter:brightness(0) saturate(100%) invert(79%) sepia(40%) saturate(496%) hue-rotate(357deg) brightness(96%) contrast(90%)!important;
+.icon .widget_content .item .icon img>:nth-child(2){ 
+	filter:invert(79%) sepia(98%) saturate(882%) hue-rotate(315deg) brightness(99%) contrast(105%)!important;
 }
-.icon .widget_content .item .icon img :nth-child(3){ 
-	filter:brightness(0) saturate(100%) invert(79%) sepia(40%) saturate(496%) hue-rotate(357deg) brightness(96%) contrast(90%)!important;
+.icon .widget_content .item .icon img>:nth-child(3){ 
+	filter:invert(77%) sepia(20%) saturate(1413%) hue-rotate(331deg) brightness(104%) contrast(97%)!important;
 }
-.icon .widget_content .item .icon img :nth-child(4){ 
+.icon .widget_content .item .icon img>:nth-child(4){ 
 	filter:invert(74%) sepia(31%) saturate(1080%) hue-rotate(319deg) brightness(107%) contrast(95%)!important;
 }
 
