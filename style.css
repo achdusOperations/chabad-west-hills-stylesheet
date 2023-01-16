@@ -49,10 +49,11 @@ height: 80px !important;
 margin-top: -20px !important;
 }
 
-/*taking off site title*/
+/* site title*/
 .site_title {
-display: none !important;
+padding-left:20px;
 }
+
 
 /*inter lines at top in yellow*/
 #header_container .links .topBarLink:before, #header_container .links .float_right+.float_left .topBarLink:last-child:after  {
