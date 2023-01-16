@@ -35,6 +35,11 @@
 	display:none !important;
 }
 }
+@media (max-width:460px){
+    .branding-search #header_branding.logo img{
+        display:inline-block;
+    }
+    }
 
 
 /*circle around logo see through*/
