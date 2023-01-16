@@ -35,13 +35,13 @@
 	display:none !important;
 }
 }
-@media (max-width: 1024px){
+/*@media (max-width: 1024px){
     .site-logo-wrapper a > img{
          width: 52px !important;
         height: 52px !important;
         margin-top: -10px !important;
     }
-}
+}*/
 
 
 
