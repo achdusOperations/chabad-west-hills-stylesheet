@@ -36,8 +36,8 @@
 }
 }
 @media (max-width:460px){
-   .header_container,.site-logo-wrapper{
-        display:inline-block;
+    #header_branding > div > a > img{
+        display:inline-block !important;
     }
     }
 
