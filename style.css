@@ -34,11 +34,13 @@
 #BodyContainer::before {
 	display:none !important;
 }
-.site-logo-wrapper a > img{
-    width: 52px !important;
-    height: 52px !important;
-    margin-top: -10px !important;
 }
+@media (max-width: 1024px){
+    .site-logo-wrapper a > img{
+         width: 52px !important;
+        height: 52px !important;
+        margin-top: -10px !important;
+    }
 }
 
 
