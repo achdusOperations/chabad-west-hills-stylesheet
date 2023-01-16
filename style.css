@@ -35,11 +35,7 @@
 	display:none !important;
 }
 }
-@media (max-width:460px){
-    #header_branding > div > a > img{
-        display:inline-block !important;
-    }
-    }
+
 
 
 /*circle around logo see through*/
