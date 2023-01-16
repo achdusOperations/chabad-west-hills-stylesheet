@@ -36,7 +36,7 @@
 }
 }
 @media (max-width:460px){
-    .branding-search #header_branding.logo img{
+   .header_container,.site-logo-wrapper{
         display:inline-block;
     }
     }
