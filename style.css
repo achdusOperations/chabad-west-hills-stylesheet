@@ -26,7 +26,7 @@
 }
 }
 @media (max-width: 1024px){
-.cs-menu-item-toggle , .mobile-menu-bottom-links, .cs-mobile-menu-close , .on-scroll .cs-mobile-menu-open , body #tabContentMain .co_menu_item span.parent a{
+.cs-menu-item-toggle , .mobile-menu-bottom-links, .cs-mobile-menu-close , .on-scroll .cs-mobile-menu-open , body #tabContentMain .co_menu_item span.parent a, #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span{
 	color:#264653 !important;
 }
 }
