@@ -156,7 +156,7 @@ background-color: transparent !important;
 .cco_templateless_page #chabad_main_content{
     background-image:none !important;
 }
-.bannerCta button, .read-more_link, .indexsectionImg img{
+.bannerCta button, .read-more_link a, .indexsectionImg img{
     border-radius: 25px !important;
 
 }
