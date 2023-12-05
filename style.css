@@ -154,7 +154,7 @@ background-color: transparent !important;
 }
 /*mini site*/
 .cco_templateless_page #chabad_main_content{
-    background:none;
+    background-image:none;
 }
 
 /*different elements in the lists and nav in turk*/
