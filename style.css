@@ -156,9 +156,12 @@ background-color: transparent !important;
 .cco_templateless_page #chabad_main_content{
     background-image:none !important;
 }
-.bannerCta button, .read-more_link{
+.bannerCta button, .read-more_link, .indexsectionImg img{
     border-radius: 25px !important;
 
+}
+.sPromo-flex img , .sPromo-flex img{
+border-radius:50%;
 }
 
 /*different elements in the lists and nav in turk*/
