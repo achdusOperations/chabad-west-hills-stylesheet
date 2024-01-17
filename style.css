@@ -165,7 +165,7 @@ border-radius:50% !important;
 }
 
 /*hidden hills*/
-.custom_message .title, #co_calendar > div.co_calendar_head > div, .article-header__title{
+.custom_message .title, #co_calendar > div.co_calendar_head > div, .article-header__title, .indexsection .message{
     color:#264653 !important;
 }
 /*navigation bar*/
