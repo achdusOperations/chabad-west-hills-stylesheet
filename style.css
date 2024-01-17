@@ -176,9 +176,9 @@ div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.pare
     color:#FFF !important;
 }
 /*footer*/
-.footer{
-    background-color: #264653;
-    color:#288480;
+.footer,  .footer a {
+    background-color: #264653 !important;
+    color:#288480 !important;
 }
 .sPromo-flex{
     max-width:250px !important;
