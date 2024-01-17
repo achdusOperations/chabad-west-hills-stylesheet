@@ -193,7 +193,7 @@ div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.pare
     background-color: #264653 !important;
 }
 #co_calendar div.co_calendar_body .item:nth-child(2), #co_calendar div.co_calendar_body .item:nth-child(4), #co_calendar div.co_calendar_body .item:nth-child(5), #co_calendar div.co_calendar_body .item:nth-child(7){
-    background-color:#288480;
+    background-color:#288480 !important;
 }
 .co_calendar_text{
 background: linear-gradient(90deg, rgba(255,204,70,1) 0%, rgba(249,165,113,1) 100%) !important;
