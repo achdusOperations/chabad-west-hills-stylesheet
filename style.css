@@ -189,7 +189,7 @@ div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.pare
 .custom_message .message{
     padding-top:10px!important;
 }
-#co_calendar div.co_calendar_body .item.item.first, #co_calendar div.co_calendar_body .item:nth-child(2), #co_calendar div.co_calendar_body .item:nth-child(4), #co_calendar div.co_calendar_body .item:nth-child(5), #co_calendar div.co_calendar_body .item:nth-child(7){
+#co_calendar div.co_calendar_body .item.item.first, #co_calendar div.co_calendar_body .item:nth-child(3), #co_calendar div.co_calendar_body .item:nth-child(6), #co_calendar div.co_calendar_body .item:nth-child(8){
     background-color: #264653 !important;
 }
 #co_calendar div.co_calendar_body .item:nth-child(2), #co_calendar div.co_calendar_body .item:nth-child(4), #co_calendar div.co_calendar_body .item:nth-child(5), #co_calendar div.co_calendar_body .item:nth-child(7){
