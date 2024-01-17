@@ -166,13 +166,16 @@ border-radius:50% !important;
 
 /*hidden hills*/
 .custom_message .title{
-    color:#2A9D8E !important;
+    color:#264653 !important;
 }
 .sPromo-flex{
     max-width:250px !important;
 }
 .sPromo-wrap .caption{
     visibility:hidden !important;
+}
+.custom_message .message{
+    padding-top:10px;
 }
 
 /*different elements in the lists and nav in turk*/
