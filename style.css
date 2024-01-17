@@ -172,8 +172,12 @@ border-radius:50% !important;
 div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.parent a.parent{
     background-color:#264653 !important;
 }
+#navigation li.parent a.parent{
+    font-weight: 900 !important;
+}
 #navigation li.parent.selected a.parent{
-    font-weight: bold !important;
+    
+    color:#E9C46B !important;
 }
 /*footer*/
 .g960.footer {
