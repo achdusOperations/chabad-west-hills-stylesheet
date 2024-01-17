@@ -165,7 +165,7 @@ border-radius:50% !important;
 }
 
 /*hidden hills*/
-.custom_message .title, #co_calendar > div.co_calendar_head > div{
+.custom_message .title, #co_calendar > div.co_calendar_head > div, .article-header__title{
     color:#264653 !important;
 }
 /*navigation bar*/
@@ -189,6 +189,7 @@ div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.pare
 .custom_message .message{
     padding-top:10px!important;
 }
+/*calendar*/
 #co_calendar div.co_calendar_body .item.item.first, #co_calendar div.co_calendar_body .item:nth-child(3), #co_calendar div.co_calendar_body .item:nth-child(6), #co_calendar div.co_calendar_body .item:nth-child(8){
     background-color: #264653 !important;
 }
@@ -197,6 +198,16 @@ div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.pare
 }
 .co_calendar_text{
 background: linear-gradient(90deg, rgba(255,204,70,1) 0%, rgba(249,165,113,1) 100%) !important;
+}
+/*buttons*/
+.read-more_link a{
+    color:#264653 !important;
+}
+.read-more_link a{
+    border:2px solid #264653 !important;
+}
+.read-more_link a:hover{
+    background-color: #264653 !important;
 }
 
 /*different elements in the lists and nav in turk*/
