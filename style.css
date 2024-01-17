@@ -169,8 +169,11 @@ border-radius:50% !important;
     color:#264653 !important;
 }
 /*navigation bar*/
-div#chabad_head .chabad_navigator_bar{
+div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.parent a.parent{
     background-color:#264653 !important;
+}
+#navigation li.parent a.parent:hover, #navigation li.parent a.parent{
+    color:#FFF !important;
 }
 .sPromo-flex{
     max-width:250px !important;
