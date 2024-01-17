@@ -176,7 +176,7 @@ div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.pare
     font-weight: bold !important;
 }
 /*footer*/
-.footer,  .footer a {
+body.mobile #BodyContainer, body.mobile .g960.footer {
     background-color: #264653 !important;
     color:#288480 !important;
 }
