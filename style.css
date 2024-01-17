@@ -175,7 +175,7 @@ border-radius:50% !important;
     visibility:hidden !important;
 }
 .custom_message .message{
-    padding-top:10px;
+    padding-top:10px!important;
 }
 
 /*different elements in the lists and nav in turk*/
