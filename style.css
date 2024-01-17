@@ -168,6 +168,10 @@ border-radius:50% !important;
 .custom_message .title{
     color:#264653 !important;
 }
+/*navigation bar*/
+div#chabad_head .chabad_navigator_bar{
+    background-color:#264653 !important;
+}
 .sPromo-flex{
     max-width:250px !important;
 }
