@@ -217,6 +217,12 @@ background: linear-gradient(90deg, rgba(255,204,70,1) 0%, rgba(249,165,113,1) 10
 .sPromo-wrap {
     margin:8px auto !important;
 }
+#co_calendar div.co_calendar_body .item.item.first, #co_calendar div.co_calendar_body .item:nth-child(3), #co_calendar div.co_calendar_body .item:nth-child(5), #co_calendar div.co_calendar_body .item:nth-child(7){
+    background-color: #264653 !important;
+}
+#co_calendar div.co_calendar_body .item:nth-child(2), #co_calendar div.co_calendar_body .item:nth-child(4), #co_calendar div.co_calendar_body .item:nth-child(6), #co_calendar div.co_calendar_body .item:nth-child(8){
+    background-color:#288480 !important;
+}
 }
 
 /*different elements in the lists and nav in turk*/
