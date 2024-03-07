@@ -226,7 +226,7 @@ background: linear-gradient(90deg, rgba(255,204,70,1) 0%, rgba(249,165,113,1) 10
 }
 /*purim*/
 div#chabad_head .chabad_navigator_bar ul li a , #navigation li.parent a.parent:hover{
-    color:#FFF;
+    color:#FFF !important;
 }
 
 /*different elements in the lists and nav in turk*/
