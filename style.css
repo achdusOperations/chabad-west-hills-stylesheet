@@ -187,9 +187,7 @@ div#chabad_head .chabad_navigator_bar, .chabad_menu_content, #navigation li.pare
 .sPromo-flex{
     max-width:250px !important;
 }
-.sPromo-wrap .caption{
-    visibility:hidden !important;
-}
+
 .custom_message .message{
     padding-top:10px!important;
 }
