@@ -165,7 +165,7 @@ border-radius:50% !important;
 }
 
 /*hidden hills*/
-.custom_message .title, #co_calendar > div.co_calendar_head > div, .article-header__title, .indexsection .message{
+.custom_message .title, #co_calendar > div.co_calendar_head > div,  .indexsection .message{
     color:#264653 !important;
 }
 /*navigation bar*/
@@ -264,7 +264,8 @@ text-transform:none !important;
 	color:#2A9D8E !important;
 }
 /*banner background*/
-#BodyContainer #co_content_container>.clearfix>.g960:not(.categorized){
+
+/*#BodyContainer #co_content_container>.clearfix>.g960:not(.categorized){
     background-color:#FFF !important;
 
 }
