@@ -266,7 +266,7 @@ text-transform:none !important;
 
 /*purim minisite*/
 html:has(meta[content*="Purim - ChabadofWestHills.com"]) .sPromo-wrap .caption, html:has(meta[content*="Purim - ChabadofWestHills.com"]) .textWrapper{
-   background: rgba(255,255,255,.50) !important;
+   background: rgba(255,255,255,.30) !important;
 }
 /*banner background*/
 
