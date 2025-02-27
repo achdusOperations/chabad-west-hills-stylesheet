@@ -263,6 +263,11 @@ text-transform:none !important;
 .secondary_navigation .header {
 	color:#2A9D8E !important;
 }
+
+/*purim minisite*/
+html:has(meta[content*="Purim - ChabadofWestHills.com"]) .sPromo-wrap .caption, html:has(meta[content*="Purim - ChabadofWestHills.com"]) .textWrapper{
+   background: rgba(255,255,255,.50) !important;
+}
 /*banner background*/
 
 /*#BodyContainer #co_content_container>.clearfix>.g960:not(.categorized){
