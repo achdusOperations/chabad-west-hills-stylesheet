@@ -229,7 +229,7 @@ div#chabad_head .chabad_navigator_bar ul li a , #navigation li.parent a.parent:h
 
 
 /*gala minisite*/
-html:has(meta[content*="20 Years Strong"]) div.chabad_left_column, .html:has(meta[content*="20 Years Strong"]) cco_templateless_page #chabad_main_content{
+html:has(meta[content*="20 Years Strong"]) div.chabad_left_column, .html:has(meta[content*="20 Years Strong"]) .cco_templateless_page #chabad_main_content{
     background:#390c37 !important;
 }
 
