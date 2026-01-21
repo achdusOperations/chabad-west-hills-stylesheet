@@ -290,7 +290,7 @@ html:has(meta[content*="20 Years Strong"]) .cco_templateless_page #chabad_main_c
     background-color:#390c37 !important;
 }
 /*navigation bar*/
-html:has(meta[content*="20 Years Strong"]) .chabad_menu_content{
+html:has(meta[content*="20 Years Strong"]) .chabad_menu_content, html:has(meta[content*="20 Years Strong"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="20 Years Strong"]) #navigation li.parent a.parent{
     background-color: #e4c26e !important;
 }
 /*remove white borders in background for mobiles*/
