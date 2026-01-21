@@ -289,6 +289,10 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
 html:has(meta[content*="20 Years Strong"]) .cco_templateless_page #chabad_main_content, html:has(meta[content*="20 Years Strong"]) div.chabad_left_column{
     background-color:#390c37 !important;
 }
+/*text margin*/
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(2) > div.message > p{
+    margin-top:0px !important;
+}
 /*navigation bar*/
 html:has(meta[content*="20 Years Strong"]) .chabad_menu_content, html:has(meta[content*="20 Years Strong"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="20 Years Strong"]) #navigation li.parent a.parent{
     background-color: #e4c26e !important;
