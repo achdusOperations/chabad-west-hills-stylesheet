@@ -247,6 +247,9 @@ html:has(meta[content*="20 Years Strong"]) .g960.footer{
     url("https://chabadofwesthills.com/media/images/1354/WWbz13541482.jpg");
     background-size:100% 100%;
 }
+html:has(meta[content*="20 Years Strong"]) .g960.footer{
+    color:#fff !important;
+}
 /*sections background*/
 html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1){
     background-image: 
@@ -261,6 +264,14 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
 
 html:has(meta[content*="20 Years Strong"]) .cco_templateless_page #chabad_main_content, html:has(meta[content*="20 Years Strong"]) div.chabad_left_column{
     background-color:#390c37 !important;
+}
+/*text color*/
+html:has(meta[content*="20 Years Strong"]) .white{
+    color:#fff !important;
+}
+
+html:has(meta[content*="20 Years Strong"]) .gold{
+    color:#e4c26e !important;
 }
 html:has(meta[content*="20 Years Strong"]) .indexsection .title{
     color:#fff !important;
