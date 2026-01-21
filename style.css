@@ -309,6 +309,11 @@ html:has(meta[content*="20 Years Strong"]) .custom_message .message{
     color:#e4c26e !important
 }
 
+/*text bigger*/
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(2) > div.message > p, html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) > div.message > div:nth-child(1){
+    font-size: 19pt !important;
+}
+
 /*button*/
 html:has(meta[content*="20 Years Strong"]) .read-more_link a,html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
     color:#e4c26e !important;
