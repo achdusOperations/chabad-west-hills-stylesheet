@@ -282,8 +282,10 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
 
 html:has(meta[content*="20 Years Strong"]) .cco_templateless_page #chabad_main_content, html:has(meta[content*="20 Years Strong"]) div.chabad_left_column{
     background-color:#390c37 !important;
-    padding-right:0px !important;
-    padding-left:0px !important;
+}
+/*remove white borders in background for mobiles*/
+html:has(meta[content*="20 Years Strong"]) body.mobile div#chabad_body_content{
+    padding:0px !important;
 }
 /*text color*/
 html:has(meta[content*="20 Years Strong"]) .white{
