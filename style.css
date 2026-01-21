@@ -232,14 +232,14 @@ div#chabad_head .chabad_navigator_bar ul li a , #navigation li.parent a.parent:h
 
 /*hero*/
 
-html:has(meta[content*="20 Years Strong"]).chabad_header img{
+html:has(meta[content*="20 Years Strong"]) .chabad_header img{
     background-image: 
    url("https://chabadofwesthills.com/media/images/1354/fEoH13541483.jpg");
    background-size:100% 100%;
    }
 
 @media screen and (max-width: 700px) {
-    html:has(meta[content*="20 Years Strong"]).chabad_header img{
+    html:has(meta[content*="20 Years Strong"]) .chabad_header img{
     background-image: 
    url("https://chabadofwesthills.com/media/images/1354/iMfO13541484.jpg");
    background-size:100% 100%;
