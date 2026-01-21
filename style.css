@@ -295,6 +295,7 @@ html:has(meta[content*="20 Years Strong"]) .gold, html:has(meta[content*="20 Yea
 }
 html:has(meta[content*="20 Years Strong"]) .indexsection .title{
     color:#fff !important;
+    text-transform: uppercase !important;
 }
 html:has(meta[content*="20 Years Strong"]) .custom_message .message{
     color:#e4c26e !important
