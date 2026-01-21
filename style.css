@@ -260,6 +260,11 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
     background-size:contain;
     background-repeat:no-repeat;
 }
+@media (min-width: 700px){
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1), html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(2){
+padding-bottom:85px;
+}
+}
 html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(2){
     background-image: 
     url("https://chabadofwesthills.com/media/images/1354/hwBw13541481.png");
