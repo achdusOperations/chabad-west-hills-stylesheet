@@ -360,7 +360,7 @@ html:has(meta[content*="RSVP & Sponsorships"]) .article-header__title, .co_body 
 html:has(meta[content*="RSVP & Sponsorships"]) .co_body .content .form-all .form-submit-button:hover{
     background-color:#390c37 !important;
 }
-html:has(meta[content*="RSVP & Sponsorships"]).co_body .content .form-all .form-submit-button {
+html:has(meta[content*="RSVP & Sponsorships"]) .co_body .content .form-all .form-submit-button {
     color: #390c37 !important;
     border: 2px solid #390c37 !important;
 }
