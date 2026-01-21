@@ -270,7 +270,7 @@ html:has(meta[content*="20 Years Strong"]) .white{
     color:#fff !important;
 }
 
-html:has(meta[content*="20 Years Strong"]) .gold{
+html:has(meta[content*="20 Years Strong"]) .gold, html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(5) > div.title.titleIcon{
     color:#e4c26e !important;
 }
 html:has(meta[content*="20 Years Strong"]) .indexsection .title{
