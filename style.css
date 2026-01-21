@@ -232,7 +232,10 @@ div#chabad_head .chabad_navigator_bar ul li a , #navigation li.parent a.parent:h
 
 /*hero*/
 
-
+html:has(meta[content*="20 Years Strong"]) .chabad_header img{
+    
+   background-size:100% 100%;
+   }
 
 @media screen and (max-width: 700px) {
     html:has(meta[content*="20 Years Strong"]) .chabad_header img{
@@ -295,7 +298,7 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
 }
 /*navigation bar*/
 html:has(meta[content*="20 Years Strong"]) .chabad_menu_content, html:has(meta[content*="20 Years Strong"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="20 Years Strong"]) #navigation li.parent a.parent{
-    background-color: #e4c26e !important;
+    display:none !important;
 }
 /*remove white borders in background for mobiles*/
 html:has(meta[content*="20 Years Strong"]) body.mobile div#chabad_body_content{
