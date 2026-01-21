@@ -245,6 +245,12 @@ html:has(meta[content*="20 Years Strong"]) .chabad_header img{
    background-size:100% 100%;
    }
 }
+/*footer*/
+html:has(meta[content*="20 Years Strong"]) .g960.footer{
+    background-image: 
+    url("https://chabadofwesthills.com/media/images/1354/WWbz13541482.jpg");
+    background-size:100% 100%;
+}
 html:has(meta[content*="20 Years Strong"]) .cco_templateless_page #chabad_main_content, html:has(meta[content*="20 Years Strong"]) div.chabad_left_column{
     background-color:#390c37 !important;
 }
