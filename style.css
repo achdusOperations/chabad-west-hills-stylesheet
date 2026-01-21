@@ -292,7 +292,7 @@ html:has(meta[content*="20 Years Strong"]) .white{
     color:#fff !important;
 }
 
-html:has(meta[content*="20 Years Strong"]) .gold, html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(5) > div.title.titleIcon, html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(4) > div.title.titleIcon{
+html:has(meta[content*="20 Years Strong"]) .gold, html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(5) > div.title.titleIcon, html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(4) > div.title.titleIcon, html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(3) > div.title.titleIcon{
     color:#e4c26e !important;
 }
 html:has(meta[content*="20 Years Strong"]) .indexsection .title{
@@ -301,6 +301,13 @@ html:has(meta[content*="20 Years Strong"]) .indexsection .title{
 }
 html:has(meta[content*="20 Years Strong"]) .custom_message .message{
     color:#e4c26e !important
+}
+
+/*button*/
+html:has(meta[content*="20 Years Strong"]) .read-more_link a,html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
+    color:#e4c26e !important;
+    border:2px solid #e4c26e !important;
+    font-size:30px !important;
 }
 
 /*different elements in the lists and nav in turk*/
