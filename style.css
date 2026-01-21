@@ -266,7 +266,8 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
     {
         background-image: 
         url("https://chabadofwesthills.com/media/images/1354/kZJC13541480.png");
-        background-size:100% 100%;
+        background-size:contain;
+        background-repeat:no-repeat;
     }
 
 
