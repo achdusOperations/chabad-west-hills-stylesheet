@@ -318,7 +318,7 @@ html:has(meta[content*="20 Years Strong"]) .indexsection .title{
     padding-top:50px !important;
 }
 html:has(meta[content*="20 Years Strong"]) .indexsectionImg img{
-    margin-top:-50px !important
+    margin-top:-100px !important
 }
 html:has(meta[content*="20 Years Strong"]) .custom_message .message{
     color:#e4c26e !important
