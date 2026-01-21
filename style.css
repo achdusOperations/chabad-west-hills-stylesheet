@@ -346,7 +346,7 @@ html:has(meta[content*="20 Years Strong"]) .read-more_link a,html:has(meta[conte
     font-size:30px !important;
 }
 /*child page*/
-html:has(meta[content*="RSVP & Sponsorships"]) .chabad_menu_content, html:has(meta[content*="20 Years Strong"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="20 Years Strong"]) #navigation li.parent a.parent{
+html:has(meta[content*="RSVP & Sponsorships"]) .chabad_menu_content, html:has(meta[content*="RSVP & Sponsorships"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="RSVP & Sponsorships"]) #navigation li.parent a.parent{
     background-color: #e4c26e !important;
 }
 html:has(meta[content*="RSVP & Sponsorships"]) .article-header__title, .co_body h3,html:has(meta[content*="RSVP & Sponsorships"]) .form-header-group h3{
