@@ -340,10 +340,15 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
 }
 
 /*button*/
-html:has(meta[content*="20 Years Strong"]) .read-more_link a,html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
+html:has(meta[content*="20 Years Strong"]) .read-more_link a{
     color:#e4c26e !important;
     border:2px solid #e4c26e !important;
     font-size:30px !important;
+}
+html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
+    color:#fff !important;
+    border:2px solid #fff !important;
+    background-color: #390c37 !important;
 }
 /*child page*/
 html:has(meta[content*="RSVP & Sponsorships"]) .chabad_menu_content, html:has(meta[content*="RSVP & Sponsorships"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="RSVP & Sponsorships"]) #navigation li.parent a.parent{
