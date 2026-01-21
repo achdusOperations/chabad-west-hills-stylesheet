@@ -364,6 +364,7 @@ html:has(meta[content*="RSVP & Sponsorships"]).co_body .content .form-all .form-
     color: #390c37 !important;
     border: 2px solid #390c37 !important;
 }
+
 html:has(meta[content*="RSVP & Sponsorships"]) .g960.footer{
     background-image: 
     url("https://chabadofwesthills.com/media/images/1354/WWbz13541482.jpg");
