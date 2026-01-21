@@ -262,6 +262,13 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
     background-size:100% 100%;
 }
 
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(4){
+    background-image: 
+    url("https://chabadofwesthills.com/media/images/1354/hwBw13541481.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+
 html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(5)
     {
         background-image: 
