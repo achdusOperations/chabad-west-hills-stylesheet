@@ -358,8 +358,11 @@ html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
 html:has(meta[content*="RSVP & Sponsorships"]) .chabad_menu_content, html:has(meta[content*="RSVP & Sponsorships"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="RSVP & Sponsorships"]) #navigation li.parent a.parent{
     background-color: #e4c26e !important;
 }
-html:has(meta[content*="RSVP & Sponsorships"]) .article-header__title, .co_body h3,html:has(meta[content*="RSVP & Sponsorships"]) .form-header-group h3{
+html:has(meta[content*="RSVP & Sponsorships"]) .article-header__title, html:has(meta[content*="RSVP & Sponsorships"]) .form-header-group h3{
     color:#390c37 !important;
+}
+html:has(meta[content*="RSVP & Sponsorships"]) .form-header-group h3{
+    text-decoration: underline !important;
 }
 html:has(meta[content*="RSVP & Sponsorships"]) .co_body .content .form-all .form-submit-button:hover{
     background-color:#390c37 !important;
