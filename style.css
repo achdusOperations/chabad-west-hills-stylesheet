@@ -369,7 +369,7 @@ html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-header-group h3{
 html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .co_body .content .form-all p{
     font-size:18px !important;
 }
-html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-checkbox-item LABEL, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-grading-label, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-radio-item LABEL{
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-checkbox-item LABEL, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-grading-label, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-radio-item LABEL, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .co_body .content .form-all li{
     font-size:1.4em !important;
 }
 html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .co_body .content .form-all .form-submit-button:hover{
