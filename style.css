@@ -363,6 +363,11 @@ html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .article-header__title, ht
 }
 html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-header-group h3{
     text-decoration: underline !important;
+    font-size:2em !important
+}
+
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .co_body .content .form-all p{
+    font-size:18px !important;
 }
 html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .co_body .content .form-all .form-submit-button:hover{
     background-color:#390c37 !important;
