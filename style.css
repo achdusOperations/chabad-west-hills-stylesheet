@@ -230,6 +230,14 @@ div#chabad_head .chabad_navigator_bar ul li a , #navigation li.parent a.parent:h
 
 /*gala minisite*/
 
+/*b"h*/
+html:has(meta[content*="20 Years Strong"]) .chabad_header .headerTitle{
+    position: absolute !important;
+    top:10px !important;
+    right:10px !important;
+    padding-top:0px !important;
+}
+
 /*hero*/
 
 html:has(meta[content*="20 Years Strong"]) .chabad_header img{
@@ -355,6 +363,13 @@ html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
     background-color: #390c37 !important;
 }
 /*child page*/
+
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .chabad_header .headerTitle{
+    position: absolute !important;
+    top:10px !important;
+    right:10px !important;
+    padding-top:0px !important;
+}
 html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .chabad_menu_content, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) #navigation li.parent a.parent{
     background-color: #e4c26e !important;
 }
