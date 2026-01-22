@@ -355,29 +355,29 @@ html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
     background-color: #390c37 !important;
 }
 /*child page*/
-html:has(meta[content*="RSVP & Sponsorships"]) .chabad_menu_content, html:has(meta[content*="RSVP & Sponsorships"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="RSVP & Sponsorships"]) #navigation li.parent a.parent{
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .chabad_menu_content, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) div#chabad_head .chabad_navigator_bar, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) #navigation li.parent a.parent{
     background-color: #e4c26e !important;
 }
-html:has(meta[content*="RSVP & Sponsorships"]) .article-header__title, html:has(meta[content*="RSVP & Sponsorships"]) .form-header-group h3{
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .article-header__title, html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-header-group h3{
     color:#390c37 !important;
 }
-html:has(meta[content*="RSVP & Sponsorships"]) .form-header-group h3{
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .form-header-group h3{
     text-decoration: underline !important;
 }
-html:has(meta[content*="RSVP & Sponsorships"]) .co_body .content .form-all .form-submit-button:hover{
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .co_body .content .form-all .form-submit-button:hover{
     background-color:#390c37 !important;
 }
-html:has(meta[content*="RSVP & Sponsorships"]) .co_body .content .form-all .form-submit-button {
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .co_body .content .form-all .form-submit-button {
     color: #390c37 !important;
     border: 2px solid #390c37 !important;
 }
 
-html:has(meta[content*="RSVP & Sponsorships"]) .g960.footer{
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .g960.footer{
     background-image: 
     url("https://chabadofwesthills.com/media/images/1354/WWbz13541482.jpg");
     background-size:100% 100%;
 }
-html:has(meta[content*="RSVP & Sponsorships"]) .g960.footer{
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .g960.footer{
     color:#fff !important;
 }
 
