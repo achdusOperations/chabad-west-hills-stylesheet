@@ -235,7 +235,7 @@ html:has(meta[content*="20 Years Strong"]) .chabad_header .headerTitle{
     position: absolute !important;
     top:10px !important;
     right:10px !important;
-    padding-top:0px !important;
+    padding-top:10px !important;
     font-size:10px !important;
 }
 
