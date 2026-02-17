@@ -287,6 +287,12 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
     background-repeat:no-repeat;
 }
 
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(6){
+    margin-top:0px !important;
+    width:100%  !important;
+    border-radius: none !important;
+}
+
 html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(7){
     background-image: 
     url("https://chabadofwesthills.com/media/images/1354/hwBw13541481.png");
@@ -364,13 +370,7 @@ html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
     background-color: #390c37 !important;
 }
 
-/*adding a picture through chabadone*/
-html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .large_banner{
-    border:none !important;
-}
-html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .textWrapper{
-    background:none !important;
-}
+
 /*child page*/
 
 html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .chabad_header .headerTitle{
