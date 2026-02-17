@@ -287,20 +287,20 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
     background-repeat:no-repeat;
 }
 
-html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(6) img{
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(5) img{
     margin-top:0px !important;
     width:100%  !important;
     border-radius: 0px !important;
 }
 
-html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(7){
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(6){
     background-image: 
     url("https://chabadofwesthills.com/media/images/1354/hwBw13541481.png");
     background-size:contain;
     background-repeat:no-repeat;
 }
 
-html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(8)
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(7)
     {
         background-image: 
         url("https://chabadofwesthills.com/media/images/1354/kZJC13541480.png");
