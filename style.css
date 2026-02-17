@@ -287,10 +287,10 @@ html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-paren
     background-repeat:no-repeat;
 }
 
-html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(6){
+html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(6) img{
     margin-top:0px !important;
     width:100%  !important;
-    border-radius: none !important;
+    border-radius: 0px !important;
 }
 
 html:has(meta[content*="20 Years Strong"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(7){
