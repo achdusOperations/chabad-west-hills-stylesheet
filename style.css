@@ -363,6 +363,14 @@ html:has(meta[content*="20 Years Strong"]) .read-more_link a:hover{
     border:2px solid #fff !important;
     background-color: #390c37 !important;
 }
+
+/*adding a picture through chabadone*/
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .large_banner{
+    border:none !important;
+}
+html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .textWrapper{
+    background:none !important;
+}
 /*child page*/
 
 html:has(meta[content*="Gala-RSVP-Gallery-Tributes"]) .chabad_header .headerTitle{
